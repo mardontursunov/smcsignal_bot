@@ -42,7 +42,7 @@ CHAT_ID         = os.getenv("TELEGRAM_CHAT_ID", "")
 TWELVE_API_KEY  = os.getenv("TWELVE_API_KEY", "")
 
 REQUIRED_CHANNEL_ID  = -1002298501211          # obuna tekshiriladigan kanal
-CHANNEL_INVITE_LINK  = "https://t.me/+your_channel_link"  # o'z linkinigizga almashtiring
+CHANNEL_INVITE_LINK  = "https://t.me/+FUSgOGyTKvkwYjcy"  # o'z linkinigizga almashtiring
 
 MIN_SIGNALS_PER_DAY  = 10
 MAX_SIGNALS_PER_DAY  = 20
