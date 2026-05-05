@@ -1,0 +1,6 @@
+.env
+*.log
+__pycache__/
+venv/
+user_languages.json
+active_signals.json
